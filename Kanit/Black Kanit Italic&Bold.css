@@ -1,0 +1,8 @@
+@charset "utf-8";
+@import url("../webfonts/Kanit_Regular/stylesheet.css");
+
+.footerweb {
+	font-family: "Kanit Regular";
+	color: #FFF;
+	font-style: italic;
+}
